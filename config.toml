@@ -1,6 +1,6 @@
-baseurl = "/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-title = "Academic"
-copyright = "&copy; 2017 Your Name"
+baseurl = "www.brookembell.com/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
+title = "Brooke M. Bell"
+copyright = "&copy; 2017 Brooke Bell"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -9,10 +9,10 @@ preserveTaxonomyNames = true
 paginate = 10
 
 # Enable comments by entering your Disqus shortname
-disqusShortname = ""
+#disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-111501786-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -32,7 +32,7 @@ defaultContentLanguageInSubdir = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, or `dark`.
-  color_theme = "default"
+  color_theme = "ocean"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -40,16 +40,20 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Brooke M. Bell"
-  role = "Ph.D. Student in Preventive Medicine"
+  role = "Ph.D. Student in Health Behavior Research"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
   organizations = [ { name = "University of Southern California", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "brookebe.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "brooke.bell@usc.edu"
-  address = "2001 N. Soto Street, 3rd floor, 312-09, University of Southern California, Los Angeles, CA 90032 USA"
+  address = 
+  "2001 N. Soto Street", 
+  "3rd floor, 312-09",
+  "University of Southern California",
+  "Los Angeles, CA 90032 USA"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   #phone = "888 888 88 88"
   #skype = "echo123"
@@ -205,22 +209,22 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:brooke.bell@usc.edu"
 
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+  #[[params.social]]
+   # icon = "twitter"
+    #icon_pack = "fa"
+    #link = "//twitter.com/GeorgeCushen"
 
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = "https://scholar.google.com/citations?user=qvH7-18AAAAJ"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "//github.com/brookembell"
 
 
 # Navigation Links
