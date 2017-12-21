@@ -10,31 +10,24 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Childhood Obesity Prevention",
+    "Mobile Health",
+    "Social Determinants of Health"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Ph.D. in Health Behavior Research"
+  institution = "University of Southern California"
+  year = "In Progress - Expected 2021"
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "B.A. in Mathematics"
+  institution = "University of Southern California"
+  year = 2016
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Brooke Bell is a second year doctoral student in the Health Behavior Research Ph.D. program at the Keck School of Medicine of USC. She graduated with a B.A. in Mathematics from the University of Southern California in 2016. Brooke currently works with Dr. Donna Spruijt-Metz on research that utilizes mobile health (mHealth) technologies in obesity prevention and interventions. As a graduate student, her primary research interests include childhood obesity prevention, minority health disparities, and social and environmental determinants of health.
