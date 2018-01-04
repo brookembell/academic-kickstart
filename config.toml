@@ -32,7 +32,7 @@ defaultContentLanguageInSubdir = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, or `dark`.
-  color_theme = "default"
+  color_theme = "coffee"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -44,14 +44,14 @@ defaultContentLanguageInSubdir = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of Southern California", url = "" } ]
+  organizations = [ { name = "University of Southern California", url = "https://www.usc.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  #avatar =  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "brooke.bell@usc.edu"
   #address =
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  #phone = "888 888 88 88"
+  phone = "000 000 0000"
   #skype = "echo123"
   #telegram = ""
 
