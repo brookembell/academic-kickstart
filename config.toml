@@ -1,6 +1,6 @@
 baseurl = "www.brookembell.com/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 title = "Brooke M. Bell"
-copyright = "&copy; 2017 Brooke Bell"
+copyright = "&copy; 2018 Brooke Bell"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -32,7 +32,7 @@ defaultContentLanguageInSubdir = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, or `dark`.
-  color_theme = "ocean"
+  color_theme = "default"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -182,7 +182,7 @@ defaultContentLanguageInSubdir = false
     #   1 = Detailed
     #   2 = APA
     #   3 = MLA
-    publication_format = 2
+    publication_format = 0
 
   # Social/Academic Networking
   #
