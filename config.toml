@@ -47,13 +47,13 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "University of Southern California", url = "https://www.usc.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  #avatar =  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "portrait.jpg" # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "brooke.bell@usc.edu"
-  #address =
-  #office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "000 000 0000"
-  #skype = "echo123"
-  #telegram = ""
+  address = "
+  office_hours = ""
+  phone = ""
+  skype = ""
+  telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
@@ -182,7 +182,7 @@ defaultContentLanguageInSubdir = false
     #   1 = Detailed
     #   2 = APA
     #   3 = MLA
-    publication_format = 0
+    publication_format = 3
 
   # Social/Academic Networking
   #
