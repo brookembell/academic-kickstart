@@ -16,10 +16,6 @@ weight = 5
   ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "Ph.D. in Health Behavior Research"
-  institution = "University of Southern California"
-  year = "In Progress - Expected 2021"
 
 [[education.courses]]
   course = "B.A. in Mathematics"
