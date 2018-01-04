@@ -49,12 +49,7 @@ defaultContentLanguageInSubdir = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "brooke.bell@usc.edu"
-  address = [
-  "2001 N. Soto Street",
-  "3rd floor, 312-09",
-  "University of Southern California",
-  "Los Angeles, CA 90032 USA"
-  ]
+  #address =
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   #phone = "888 888 88 88"
   #skype = "echo123"
