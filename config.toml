@@ -218,9 +218,9 @@ defaultContentLanguageInSubdir = false
     link = "https://scholar.google.com/citations?user=qvH7-18AAAAJ"
 
   [[params.social]]
-    icon = "github"
+    icon = "fa-linkedin-square"
     icon_pack = "fa"
-    link = "//github.com/brookembell"
+    link = "https://www.linkedin.com/in/brooke-bell-1b7727119/"
 
 
 # Navigation Links
