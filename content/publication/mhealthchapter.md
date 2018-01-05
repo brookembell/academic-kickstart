@@ -1,6 +1,6 @@
 +++
 title = "Mobile Health Strategies for Pediatric Obesity Prevention and Interventions"
-date = "2016-01-01"
+date = "2016-10-26"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Wen CKF", "Bell BM", "Spruijt-Metz D"]
