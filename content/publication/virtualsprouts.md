@@ -1,6 +1,6 @@
 +++
 title = "Virtual Sprouts: A virtual gardening pilot intervention increases self-efficacy to cook and eat fruit and vegetables in minority youth"
-date = "2018"
+date = ""
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Bell BM", "Martinez L", "Gotsis M", "Lane HC", "Davis JN", "Antunez-Castillo L", "Ragusa G", "Spruijt-Metz D"]
