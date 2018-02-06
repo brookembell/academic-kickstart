@@ -37,7 +37,7 @@ projects = ""
 
 # Links (optional).
 url_pdf = ""
-url_preprint = ""
+url_preprint = "http://online.liebertpub.com/doi/abs/10.1089/g4h.2017.0102"
 url_code = ""
 url_dataset = ""
 url_project = ""
