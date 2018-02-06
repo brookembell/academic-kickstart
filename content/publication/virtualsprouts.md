@@ -17,7 +17,7 @@ authors = ["Bell BM", "Martinez L", "Gotsis M", "Lane HC", "Davis JN", "Antunez-
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Accepted in *Games for Health Journal*"
+publication = "In *Games for Health Journal*, epub ahead of print"
 publication_short = ""
 
 # Abstract and optional shortened version.
