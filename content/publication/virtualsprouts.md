@@ -37,7 +37,7 @@ projects = ""
 
 # Links (optional).
 url_pdf = ""
-url_preprint = "http://online.liebertpub.com/doi/abs/10.1089/g4h.2017.0102"
+url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -48,7 +48,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "Abstract", url = "http://online.liebertpub.com/doi/abs/10.1089/g4h.2017.0102"}]
 
 # Does the content use math formatting?
 math = true
