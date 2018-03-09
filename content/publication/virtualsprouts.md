@@ -36,7 +36,7 @@ selected = true
 projects = ""
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "http://bit.ly/2FXNeLV"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
