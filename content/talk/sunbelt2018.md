@@ -2,7 +2,7 @@
 date = 2018-03-08T00:00:00  # Schedule page publish date.
 
 title = "Social Network Influences in the Childhood Obesity Prevention @ homE (COPE) Program"
-time_start = "June 2018"
+time_start = ""
 time_end = ""
 abstract = ""
 abstract_short = ""
