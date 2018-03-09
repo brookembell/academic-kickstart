@@ -2,8 +2,8 @@
 date = 2018-03-08T00:00:00  # Schedule page publish date.
 
 title = "Social Network Influences in the Childhood Obesity Prevention @ homE (COPE) Program"
-time_start = ""
-time_end = ""
+time_start = 2018-06-26
+time_end = 2018-07-01
 abstract = ""
 abstract_short = ""
 event = "XXXVIII Sunbelt Conference"
