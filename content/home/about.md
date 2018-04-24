@@ -12,7 +12,8 @@ weight = 5
   interests = [
     "Childhood Obesity Prevention",
     "Mobile Health",
-    "Social Determinants of Health"
+    "Social Determinants of Health",
+    "Social Network Analysis"
   ]
 
 # List your qualifications (such as academic degrees).
