@@ -208,9 +208,9 @@ defaultContentLanguageInSubdir = false
     link = "mailto:brooke.bell@usc.edu"
 
   #[[params.social]]
-   # icon = "twitter"
-   # icon_pack = "fa"
-   # link = "//twitter.com/GeorgeCushen"
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "https://twitter.com/brookemariebell"
 
   [[params.social]]
     icon = "google-scholar"
