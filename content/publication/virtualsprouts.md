@@ -17,7 +17,7 @@ authors = ["Bell BM", "Martinez L", "Gotsis M", "Lane HC", "Davis JN", "Antunez-
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Games for Health Journal*, epub ahead of print"
+publication = "In *Games for Health Journal*"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -36,7 +36,7 @@ selected = true
 projects = ""
 
 # Links (optional).
-url_pdf = "http://bit.ly/2FXNeLV"
+url_pdf = "https://www.liebertpub.com/doi/full/10.1089/G4H.2017.0102"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
