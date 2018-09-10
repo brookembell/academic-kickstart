@@ -27,6 +27,6 @@ weight = 5
 
 # Biography
 
-Brooke Bell is a third year doctoral student in the Health Behavior Research Ph.D. program at the Keck School of Medicine of USC. She graduated with a B.A. in Mathematics from the University of Southern California in 2016. Brooke currently works with Dr. Donna Spruijt-Metz on research that utilizes mobile health (mHealth) technologies in obesity prevention and interventions.
+Brooke Bell is a third-year doctoral student in the Health Behavior Research Ph.D. program at the Keck School of Medicine of USC. She graduated with a B.A. in Mathematics from the University of Southern California in 2016. Brooke currently works on research that utilizes mobile health technologies and sensors to understand how social processes and systems affect obesity-related health behaviors in children and families.
 
-[Download CV](https://www.dropbox.com/s/8r7hlsgyxxp3it3/BBell_CV_8.2018.pdf?dl=0)
+[Download CV](https://www.dropbox.com/s/h6zhl6qwpum9jki/BBell_CV_9.2018.pdf?dl=0)
