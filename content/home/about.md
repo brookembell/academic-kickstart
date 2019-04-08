@@ -29,5 +29,5 @@ weight = 5
 
 Brooke Bell is a third-year doctoral student in the Health Behavior Research Ph.D. program at the Keck School of Medicine of USC. She graduated with a B.A. in Mathematics from the University of Southern California in 2016. Brooke currently works on research that utilizes mobile health technologies and sensors to understand how social processes and systems affect obesity-related health behaviors in children and families.
 
-[Download CV](https://www.dropbox.com/s/de1o1ypf8wph75z/BBell_CV_3.2019.pdf?dl=0)
+[Download CV](https://www.dropbox.com/s/6c5h6fa1iqrf69p/BBell_CV_4.2019.pdf?dl=0)
 
