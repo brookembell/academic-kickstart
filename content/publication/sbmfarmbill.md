@@ -49,6 +49,7 @@ url_source = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 
+url_custom = [{name = "Article", url = "https://academic.oup.com/tbm/article/9/2/391/4969763"}]
 
 # Does the content use math formatting?
 math = true
