@@ -49,6 +49,8 @@ url_source = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 
+url_custom = [{name = "Abstract", url = "https://academic.oup.com/tbm/article-abstract/9/3/422/5489498"}]
+url_custom = [{name = "Article (free access)", url = "https://academic.oup.com/tbm/article/9/3/422/5489498?guestAccessKey=5bc7d9ee-31b7-4415-a7bc-78e0322de28c"}]
 
 # Does the content use math formatting?
 math = true
