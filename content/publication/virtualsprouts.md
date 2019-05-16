@@ -36,7 +36,7 @@ selected = true
 projects = ""
 
 # Links (optional).
-url_pdf = "https://www.liebertpub.com/doi/full/10.1089/G4H.2017.0102"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
