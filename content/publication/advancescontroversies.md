@@ -48,7 +48,6 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-
 url_custom = [{name = "Article (free access)", url = "https://www.sciencedirect.com/science/article/pii/S074937971832018X"}]
 
 # Does the content use math formatting?
