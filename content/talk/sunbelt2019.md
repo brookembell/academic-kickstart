@@ -2,8 +2,8 @@
 date = 2019-03-10T00:00:00  # Schedule page publish date.
 
 title = "Comparison of country-level network exposures on the adoption of multiple WHO treaties"
-time_start = 2019-06-18T00:00:00
-time_end = 2019-06-23T00:00:00
+time_start = 2019-06-21T10:40:00
+time_end = 2019-06-21T11:00:00
 abstract = ""
 abstract_short = ""
 event = "XXXIX Sunbelt Conference of the International Network for Social Network Analysis"
