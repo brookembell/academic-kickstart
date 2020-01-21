@@ -47,7 +47,7 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "University of Southern California", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "brookebe_cropped.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "BrookeBell_02.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "brooke.bell@usc.edu"
   address = "2001 N. Soto Street, 312-09, Los Angeles, CA 90032 USA"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
