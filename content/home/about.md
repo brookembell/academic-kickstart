@@ -10,9 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Childhood Obesity Prevention",
-    "Family-Based Interventions",
-    "Mobile Health Technologies",
+    "Obesity Prevention",
+    "Food Systems x Climate Change",
+    "Health and Food Policy",
     "Social Network Analysis"
   ]
 
