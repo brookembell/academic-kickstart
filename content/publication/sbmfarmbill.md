@@ -36,7 +36,7 @@ selected = true
 projects = ""
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://www.dropbox.com/s/065i2ecnx7y2w3r/Sensing%20eating%20mimicry%20among%20family%20members.pdf?dl=0"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -48,7 +48,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Article", url = "https://academic.oup.com/tbm/article/9/2/391/4969763"}]
+url_custom = [{name = "Abstract", url = "https://academic.oup.com/tbm/article/9/2/391/4969763"}]
 
 # Does the content use math formatting?
 math = true
