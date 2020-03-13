@@ -48,7 +48,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Article (open access)", url = "https://rdcu.be/b2U7R"}]
+url_custom = [{name = "Article (free access)", url = "https://rdcu.be/b2U7R"}]
 
 # Does the content use math formatting?
 math = true
