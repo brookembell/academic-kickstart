@@ -51,7 +51,7 @@ These slides provide resources on how to minimize COVID-19 transmission during p
 <img src="https://i.imgur.com/yH8k6TD.png" width="400" />
 
 
-[Slide 5: COVID-19 symptoms (png)](https://www.dropbox.com/s/ue1bfzz822dihvi/4-After%20protest.png?dl=0)
+[Slide 5: COVID-19 symptoms (png)](https://www.dropbox.com/s/9smf89abl1g2e8t/5-COVID%20symptoms.png?dl=0)
 
 <img src="https://i.imgur.com/FB8qgYy.png" width="400" />
 
