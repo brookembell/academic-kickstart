@@ -29,11 +29,16 @@ These slides provide resources on how to minimize COVID-19 transmission during p
 [All slides (pdf)](https://www.dropbox.com/s/bnfga9mxp8lo73r/How%20to%20minimize%20covid.pdf?dl=0)
 
 
+
 <img src="https://github.com/brookembell/academic-kickstart/blob/reverted/static/img/1-Title.png" width=300 />
 [Slide 1: Title page (png)](https://www.dropbox.com/s/pxem39574buvitm/1-Title.png?dl=0)
 
+
+<img src="https://github.com/brookembell/academic-kickstart/blob/reverted/static/img/2-Before%20protest.png" width=300 />
 [Slide 2: Before the protest (png)](https://www.dropbox.com/s/mi75k0lf1n3vrvv/2-Before%20protest.png?dl=0)
 
+
+<img src="https://github.com/brookembell/academic-kickstart/blob/reverted/static/img/3-During%20protest.png" width=300 />
 [Slide 3: During the protest (png)](https://www.dropbox.com/s/kmhdzwwtzdhs7h4/3-During%20protest.png?dl=0)
 
 [Slide 4: After the protest (png)](https://www.dropbox.com/s/ue1bfzz822dihvi/4-After%20protest.png?dl=0)
