@@ -38,25 +38,25 @@ These slides provide resources on how to minimize COVID-19 transmission during p
 
 [Slide 2: Before the protest (png)](https://www.dropbox.com/s/mi75k0lf1n3vrvv/2-Before%20protest.png?dl=0)
 
-<img src="https://github.com/brookembell/img/blob/master/2-Before%20protest.png" width="300" />
+<img src="https://i.imgur.com/ic9ywR0.png" width="400" />
 
 
 [Slide 3: During the protest (png)](https://www.dropbox.com/s/kmhdzwwtzdhs7h4/3-During%20protest.png?dl=0)
 
-<img src="https://github.com/brookembell/img/blob/master/3-During%20protest.png" width="300" />
+<img src="https://i.imgur.com/lStulPL.png" width="400" />
 
 
 [Slide 4: After the protest (png)](https://www.dropbox.com/s/ue1bfzz822dihvi/4-After%20protest.png?dl=0)
 
-<img src="https://github.com/brookembell/img/blob/master/4-After%20protest.png" width="300" />
+<img src="https://i.imgur.com/yH8k6TD.png" width="400" />
 
 
 [Slide 5: COVID-19 symptoms (png)](https://www.dropbox.com/s/ue1bfzz822dihvi/4-After%20protest.png?dl=0)
 
-<img src="https://github.com/brookembell/img/blob/master/5-COVID%20symptoms.png" width="300" />
+<img src="https://i.imgur.com/FB8qgYy.png" width="400" />
 
 
 [Slide 6: More resources (png)](https://www.dropbox.com/s/2xkav9eiv39zo14/6-More%20resources.png?dl=0)
 
-<img src="https://github.com/brookembell/img/blob/master/6-More%20resources.png" width="300" />
+<img src="https://i.imgur.com/KUa9hWp.png" width="400" />
 
