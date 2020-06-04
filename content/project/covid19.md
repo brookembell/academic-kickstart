@@ -21,7 +21,19 @@ external_link = ""
 # Does the project detail page use math formatting?
 math = false
 
-event = "This is a test"
-location = "This is a test"
-
 +++
+
+These slides provide resources on how to minimize COVID-19 transmission during protests. Strategies for before, during, and after protests are included.
+
+[All slides (png)](link)
+[All slides (pdf)](link)
+
+[Slide 1: Title page (png)](link)
+[Slide 2: Before the protest (png)](link)
+[Slide 3: During the protest (png)](link)
+[Slide 4: After the protest (png)](link)
+[Slide 5: COVID-19 symptoms (png)](link)
+[Slide 6: More resources (png)](link)
+
+
+
