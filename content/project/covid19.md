@@ -37,6 +37,8 @@ These slides provide resources on how to minimize COVID-19 transmission during p
 
 ![](/static/img/covid_pg1.png)
 
+![](/static/img/covid_pg1.jpg)
+
 
 [Slide 2: Before the protest (png)](https://www.dropbox.com/s/mi75k0lf1n3vrvv/2-Before%20protest.png?dl=0)
 
