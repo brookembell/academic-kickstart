@@ -1,6 +1,6 @@
 baseurl = "/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 title = ""
-copyright = "&copy; 2018 Brooke Bell"
+copyright = "&copy; 2020 Brooke Bell"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
