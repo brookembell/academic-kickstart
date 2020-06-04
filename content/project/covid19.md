@@ -37,6 +37,9 @@ These slides provide resources on how to minimize COVID-19 transmission during p
 
 <img src="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg" />
 
+<img src="https://lh3.googleusercontent.com/2Dfb0GFeBGqev2mPEYcTMT_qXNQc1tvAonQ3u0KwLvPZo6eqIqtGLBJYOw5At6BeUGJbCo0vcJgfqUBwblqzAteib1nDVRRsc0s9TROsGLVt51l8d_4z-tdhI2j5_Uc_TT2SfeSOip3YZZ6z8I5eHMHL2RF_3FeVCxjbDlJEwuANOqdwS_0yU8G-6KNJ5iuzTpGfUnFnsXvoDui8amdalIOqBZerWi97d_mUFLqoB5B9bxT-kNclob9msJU7rHyJsiZN6OR8Sk9B2cAdBrnHCaZQ0pSxl-q5TUX9rvA_UeHERD7Xsv0osMqzINt4cCAmW4braggmx1snDHVqzX1NuMt3txVWEOZkBZV3x_oBLiUMURTc2HygtI0OpqY1M5uxoEqNqCv1sn7VYGBDcCF9wpspNZK_sGKrBlVB1vSwG89GbtuzudeC3cB-AsBpqm9Z0hOWkpAB-tB-F-D9XzFnMaKE0RjWXCgx7zluj9NOdq-3PNepxtptuZb7pc1u1wjs5zCK9WJEgGH9RY8Pzc7WctVgF6NFNp4LMDfe3bnymwLg0uD51Rga6KDjE6CipwCOB64JCXxiB5DcH5I2I8yOvZO3cFm4Gux14vQbEQSwTWji_Xd3N_998yFeHU5eMYn47jklJoqffz9nV2yi2LdSvrWgO-n2hvCxRohdyJbJ_w9nDPa6zQ4arxGrK4o6jfM=s1080-no?authuser=0" width="300" />
+
+
 
 [Slide 2: Before the protest (png)](https://www.dropbox.com/s/mi75k0lf1n3vrvv/2-Before%20protest.png?dl=0)
 
