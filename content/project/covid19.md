@@ -16,7 +16,7 @@ image_preview = "covid_pg1.png"
 tags = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://www.dropbox.com/sh/kzwvc93vacchcat/AAB5FJ4PToYhRO_uylJFKgYVa?dl=0"
+external_link = ""
 
 # Does the project detail page use math formatting?
 math = false
