@@ -33,7 +33,7 @@ These slides provide resources on how to minimize COVID-19 transmission during p
 
 [Slide 1: Title page (png)](https://www.dropbox.com/s/pxem39574buvitm/1-Title.png?dl=0)
 
-<img src="https://github.com/brookembell/img/blob/master/1-Title.png" width="300" />
+<img src="https://github.com/brookembell/img/blob/master/1-Title.png" />
 
 <img src="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg" />
 
