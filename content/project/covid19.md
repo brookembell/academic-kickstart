@@ -33,7 +33,7 @@ These slides provide resources on how to minimize COVID-19 transmission during p
 
 [Slide 1: Title page (png)](https://www.dropbox.com/s/pxem39574buvitm/1-Title.png?dl=0)
 
-<img src="static/img/1-Title.png" width=300 />
+<img src="https://github.com/brookembell/academic-kickstart/blob/master/static/img/1-Title.png" width=300 />
 
 
 [Slide 2: Before the protest (png)](https://www.dropbox.com/s/mi75k0lf1n3vrvv/2-Before%20protest.png?dl=0)
