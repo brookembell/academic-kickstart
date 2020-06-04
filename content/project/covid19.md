@@ -29,7 +29,7 @@ These slides provide resources on how to minimize COVID-19 transmission during p
 [All slides (pdf)](https://www.dropbox.com/s/bnfga9mxp8lo73r/How%20to%20minimize%20covid.pdf?dl=0)
 
 
-![Image of Slide 1](brookembell/academic-kickstart/static/img/1-Title.png)
+![Image of Slide 1](static/img/1-Title.png)
 
 [Slide 1: Title page (png)](https://www.dropbox.com/s/pxem39574buvitm/1-Title.png?dl=0)
 
