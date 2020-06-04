@@ -21,4 +21,7 @@ external_link = ""
 # Does the project detail page use math formatting?
 math = false
 
+event = "This is a test"
+location = "This is a test"
+
 +++
