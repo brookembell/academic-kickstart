@@ -9,7 +9,7 @@ title = "How to Minimize COVID-19 Transmission During Protests"
 summary = "The slides provide resources on how to minimize COVID-19 transmission during protests. Strategies for before, during, and after protests are included."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = ""
+image_preview = "covid_pg1.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
