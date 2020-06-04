@@ -1,7 +1,7 @@
 +++
 date = 2019-03-10T00:00:00  # Schedule page publish date.
 
-title = "Comparison of country-level network exposures on the adoption of multiple WHO treaties"
+title = "Comparison of country-level network exposures on the adoption of multiple United Nations treaties"
 time_start = 2019-06-21T10:40:00
 time_end = 2019-06-21T11:00:00
 abstract = ""
