@@ -23,7 +23,7 @@ math = true
 
 +++
 
-# Downloadable Slides
+## Downloadable Slides
 
 These slides provide resources on how to minimize COVID-19 transmission during protests. Strategies for before, during, and after protests are included.
 
@@ -67,7 +67,8 @@ These slides provide resources on how to minimize COVID-19 transmission during p
 
 <img scr="https://i.imgur.com/CeZGoEQ.png" width="400" />
 
-# Original Instagram Posts
+
+## Original Instagram Posts
 
 
 
@@ -87,7 +88,7 @@ These slides provide resources on how to minimize COVID-19 transmission during p
 </div>
 
 
-# Social Media
+## Social Media
 If you like my content, you can follow me on Instagram and Twitter!
 
 
