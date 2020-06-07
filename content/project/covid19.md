@@ -60,3 +60,8 @@ These slides provide resources on how to minimize COVID-19 transmission during p
 
 <img src="https://i.imgur.com/KUa9hWp.png" width="400" />
 
+
+[Extra slide: Friends don't let friends protest without a mask (png)](https://www.dropbox.com/s/sbal1rouqdfo5ik/FRIENDS%20DON%27T%20LET%20FRIENDS%20PROTEST%20WITH%20A%20MASK_final.png?dl=0)
+
+<img scr="https://i.imgur.com/CeZGoEQ.png" width="400" />
+
