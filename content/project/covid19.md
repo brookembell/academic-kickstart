@@ -3,7 +3,7 @@
 date = "2020-06-04"
 
 # Project title.
-title = "How to Minimize COVID-19 Transmission During Protests"
+title = "COVID-19 Information and Resources, by Brooke Bell"
 
 # Project summary to display on homepage.
 summary = "The slides provide resources on how to minimize COVID-19 transmission during protests. Strategies for before, during, and after protests are included."
@@ -23,7 +23,9 @@ math = true
 
 +++
 
-## References In Support of Mask/Face Covering Usage
+# References In Support of Mask/Face Covering Usage
+
+<img src="https://i.imgur.com/qtySR6J.png" width="400" />
 
 ### Published studies/comments:
 
@@ -61,7 +63,9 @@ math = true
 
 **TL;DR WEAR A DAMN MASK!**
 
-## Downloadable Slides
+# How to Minimize COVID-19 Transmission During Protests
+
+### Downloadable Slides
 
 These slides provide resources on how to minimize COVID-19 transmission during protests. Strategies for before, during, and after protests are included.
 
@@ -103,10 +107,10 @@ These slides provide resources on how to minimize COVID-19 transmission during p
 
 [Extra slide: Friends don't let friends protest without a mask (png)](https://www.dropbox.com/s/sbal1rouqdfo5ik/FRIENDS%20DON%27T%20LET%20FRIENDS%20PROTEST%20WITH%20A%20MASK_final.png?dl=0)
 
-<img scr="https://i.imgur.com/CeZGoEQ.png" width="400" />
+<img scr="https://i.imgur.com/HB2CbwP.png" width="400" />
 
 
-## Original Instagram Posts
+### Original Instagram Posts
 
 
 
