@@ -23,6 +23,44 @@ math = true
 
 +++
 
+## References In Support of Mask/Face Covering Usage
+
+### Published studies/comments:
+
+[Zhang R, Li Y, Zhang AL, Wang Y, Molina MJ. Identifying airborne transmission as the dominant route for the spread of COVID-19. *Proceedings of the National Academy of Sciences*. 2020:202009637.](https://www.pnas.org/content/early/2020/06/10/2009637117)
+
+[Stutt ROJH, Retkute R, Bradley M, Gilligan CA, Colvin J. A modelling framework to assess the likely effectiveness of facemasks in combination with ‘lock-down’ in managing the COVID-19 pandemic. *Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences*. 2020;476(2238):20200376.](https://royalsocietypublishing.org/doi/10.1098/rspa.2020.0376)
+
+[Cheng KK, Lam TH, Leung CC. Wearing face masks in the community during the COVID-19 pandemic: altruism and solidarity. *The Lancet*.](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30918-1/fulltext)
+
+[Greenhalgh T, Schmid MB, Czypionka T, Bassler D, Gruer L. Face masks for the public during the covid-19 crisis. *BMJ*. 2020;369:m1435.](https://www.bmj.com/content/369/bmj.m1435)
+
+[Prather KA, Wang CC, Schooley RT. Reducing transmission of SARS-CoV-2. *Science*. 2020:eabc6197.](https://science.sciencemag.org/content/early/2020/06/08/science.abc6197)
+
+[Clase CM, Fu EL, Joseph M, et al. Cloth Masks May Prevent Transmission of COVID-19: An Evidence-Based, Risk-Based Approach. *Annals of Internal Medicine*. 2020.](https://www.acpjournals.org/doi/10.7326/M20-2567)
+
+[Rapid Expert Consultation on the Effectiveness of Fabric Masks for the COVID-19 Pandemic (National Academies of Sciences, Engineering, and Medicine)](https://www.nap.edu/read/25776/chapter/1)
+
+
+### Recomendations from health agencies:
+
+[Use of Cloth Face Coverings to Help Slow the Spread of COVID-19 (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html)
+
+[Advice on the use of masks in the context of COVID-19 (World Health Organization)](https://www.who.int/publications/i/item/advice-on-the-use-of-masks-in-the-community-during-home-care-and-in-healthcare-settings-in-the-context-of-the-novel-coronavirus-(2019-ncov)-outbreak)
+
+
+### News articles/Op-eds:
+
+[Officials Push Masks For COVID Despite Mixed Data (WebMD)](https://www.webmd.com/lung/news/20200424/getting-masks-correct-a-key-coronavirus-strategy)
+
+[Why 15 US states suddenly made masks mandatory (Vox)](https://www.vox.com/2020/5/29/21273625/coronavirus-masks-required-virginia-china-hong-kong)
+
+[Widespread mask-wearing could prevent COVID-19 second waves: study (Reuters)](https://www.reuters.com/article/us-health-coronavirus-masks-study/widespread-mask-wearing-could-prevent-covid-19-second-waves-study-idUSKBN23G37V)
+
+[Face masks are vital to stopping the spread of the virus. Wear one. (Washington Post)](https://www.washingtonpost.com/opinions/face-masks-are-vital-to-stopping-the-spread-of-the-virus-wear-one/2020/06/15/c2e687fe-af34-11ea-856d-5054296735e5_story.html)
+
+**TL;DR WEAR A DAMN MASK!**
+
 ## Downloadable Slides
 
 These slides provide resources on how to minimize COVID-19 transmission during protests. Strategies for before, during, and after protests are included.
