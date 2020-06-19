@@ -23,9 +23,11 @@ math = true
 
 +++
 
-# References In Support of Mask/Face Covering Usage
+## References In Support of Mask/Face Covering Usage
 
 <img src="https://i.imgur.com/qtySR6J.png" width="400" />
+
+[Download picture (png)](https://www.dropbox.com/s/6tt0lxtjpu3s2xk/wear%20a%20mask.png?dl=0)
 
 ### Published studies/comments:
 
@@ -63,7 +65,8 @@ math = true
 
 **TL;DR WEAR A DAMN MASK!**
 
-# How to Minimize COVID-19 Transmission During Protests
+
+## How to Minimize COVID-19 Transmission During Protests
 
 ### Downloadable Slides
 
