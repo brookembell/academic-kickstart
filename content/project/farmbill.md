@@ -33,11 +33,10 @@ math = true
 
 ### Infographic
 
-![Infographic](https://github.com/brookembell/academic-kickstart/blob/reverted/static/img/FarmBillInfographic.png)
-
+<img src="https://github.com/brookembell/academic-kickstart/blob/reverted/static/img/FarmBillInfographic.png" width="600" />
 
 ### Report Card
 
-![Report Card](https://github.com/brookembell/academic-kickstart/blob/reverted/static/img/Farm%20Bill%20Report%20Card%20REVISED.png)
+<img src="https://github.com/brookembell/academic-kickstart/blob/reverted/static/img/Farm%20Bill%20Report%20Card%20REVISED.png" width="600" />
 
 
