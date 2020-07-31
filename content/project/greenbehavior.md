@@ -6,7 +6,7 @@ date = "2020-07-30"
 title = "Green/Sustainable Behavior Blog, by Brooke Bell"
 
 # Project summary to display on homepage.
-summary = ""
+summary = "My blog 'Green Behavior' integrates behavioral change theories and strategies to make green behaviors easier to adopt and maintain."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "green behavior logo_low res.png"
