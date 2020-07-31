@@ -19,7 +19,7 @@ tags = ""
 external_link = ""
 
 # Does the project detail page use math formatting?
-math = false
+math = true
 
 +++
 
