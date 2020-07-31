@@ -6,7 +6,7 @@ date = "2020-07-29"
 title = "Network of Diverse Scholars in Social Network Analysis (NODS-SNA)"
 
 # Project summary to display on homepage.
-summary = ""
+summary = "NODS-SNA was formed to advocate, support, and promote diversity initiatives on behalf of under-represented racial and ethnic groups."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "AdobeStock_226699244 [Converted] cropped.png"
