@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = "2020-29-07"
+date = "2020-07-29"
 
 # Project title.
 title = "Network of Diverse Scholars in Social Network Analysis (NODS-SNA)"
