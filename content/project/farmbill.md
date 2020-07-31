@@ -33,10 +33,10 @@ math = true
 
 ### Infographic
 
-<img src="https://github.com/brookembell/academic-kickstart/blob/reverted/static/img/FarmBillInfographic.png" width="600" />
+<img src="https://i.imgur.com/88Y0KW1.png" width="600" />
 
 ### Report Card
 
-<img src="https://github.com/brookembell/academic-kickstart/blob/reverted/static/img/Farm%20Bill%20Report%20Card%20REVISED.png" width="600" />
+<img src="https://i.imgur.com/2KY3zQ9.png" width="600" />
 
 
