@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = "2020-30-07"
+date = "2020-07-30"
 
 # Project title.
 title = "Green/Sustainable Behavior Blog, by Brooke Bell"
