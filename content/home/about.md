@@ -33,5 +33,5 @@ Brooke Bell is a fifth-year doctoral candidate in the Health Behavior Research P
 
 She is also broadly interested in health and food policy, food systems, climate change, and sustainability.
 
-[Download CV](http://bit.ly/bmb_cv_10-20)
+[Download CV](http://bit.ly/bmb_cv_10-20_v2)
 
