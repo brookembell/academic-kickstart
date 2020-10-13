@@ -33,5 +33,5 @@ Brooke Bell is a fifth-year doctoral candidate in the Health Behavior Research P
 
 She is also broadly interested in health and food policy, food systems, climate change, and sustainability. In future years, she plans to investigate the impact of climate change on eating behaviors, food systems, chronic disease risk, and health outcomes. Moreover, she would like to engage in research on how food systems can be leveraged and transformed to encourage individual-level eating behaviors that both improve chronic disease outcomes and help mitigate climate change and its subsequent effects on human health. 
 
-[Download CV](http://bit.ly/bmb_cv_10-20_v2)
+[Download CV](https://bit.ly/bmb_cv_10-20_v3)
 
