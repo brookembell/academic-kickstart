@@ -35,5 +35,5 @@ I am broadly interested in health and food policy, food systems, climate change,
 
 I will be joining the Yale School of Public Health and the Yale Comprehensive Cancer Center as Postdoctoral Fellow in May 2021.
 
-[Download CV](https://bit.ly/bmb_cv_11-20)
+[Download CV](http://bit.ly/bmb_cv_12-20)
 
