@@ -37,3 +37,6 @@ I will be joining the Yale School of Public Health and the Yale Comprehensive Ca
 
 [Download CV](https://bit.ly/bmb_cv_11-20)
 
+<a href="https://github.com/brookembell/academic-kickstart/blob/reverted/static/cv/BBell_CV_12.2020.pdf" target="_blank">PDF.</a>
+
+
