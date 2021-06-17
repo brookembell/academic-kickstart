@@ -1,6 +1,6 @@
 baseurl = "/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 title = ""
-copyright = "&copy; 2020 Brooke Bell"
+copyright = "&copy; 2021 Brooke Bell"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -39,17 +39,17 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Brooke M. Bell"
-  role = "Ph.D. Candidate in Health Behavior Research"
+  name = "Brooke M. Bell, Ph.D."
+  role = "Postdoctoral Fellow"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of Southern California", url = "" } ]
+  organizations = [ { name = "Yale University", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "BrookeBell_05.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "brooke.bell@usc.edu"
-  address = "2001 N. Soto Street, 312-09, Los Angeles, CA 90032 USA"
+  email = "brooke.bell@yale.edu"
+  #address = ""
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   #phone = "888 888 88 88"
   #skype = "echo123"
@@ -205,7 +205,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:brooke.bell@usc.edu"
+    link = "mailto:brooke.bell@yale.edu"
 
   [[params.social]]
     icon = "twitter"
