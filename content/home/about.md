@@ -38,5 +38,5 @@ I am currently a Postdoctoral Fellow at the Yale School of Public Health. I prev
 
 I am broadly interested in health and food policy, food systems, climate change, and sustainability. In the coming years, I plan to investigate the impact of climate change on eating behaviors, food systems, chronic disease risk, and health inequities. I'd also like to engage in research examining how food systems and policies can be leveraged and transformed to encourage individual-level eating behaviors that both improve chronic disease outcomes and help mitigate climate change and its subsequent effects on human health. 
 
-[View/Download CV](http://bit.ly/bmb_cv_12-20)
+[View/Download CV](http://bit.ly/bmb_cv_6-21)
 
