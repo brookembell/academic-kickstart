@@ -25,6 +25,7 @@ weight = 5
   institution = "University of Southern California"
   year = 2016
   
+[[education.courses]]
   course = "Ph.D. in Preventive Medicine/Health Behavior Research"
   institution = "University of Southern California, Keck School of Medicine"
   year = 2021
