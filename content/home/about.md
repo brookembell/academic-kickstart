@@ -26,8 +26,8 @@ weight = 5
   year = 2016
   
 [[education.courses]]
-  course = "Ph.D. in Preventive Medicine/Health Behavior Research"
-  institution = "University of Southern California, Keck School of Medicine"
+  course = "Ph.D. in Preventive Medicine"
+  institution = "University of Southern California"
   year = 2021
  
 +++
