@@ -48,7 +48,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Article", url = "https://authors.elsevier.com/a/1dKzF5EU5ngjh7"}]
+url_custom = [{name = "Article (free access)", url = "https://authors.elsevier.com/a/1dKzF5EU5ngjh7"}]
 
 # Does the content use math formatting?
 math = true
