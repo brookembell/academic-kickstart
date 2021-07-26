@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = "2020-06-04"
+date = "2999-06-04"
 
 # Project title.
 title = "COVID-19 Information and Resources, by Brooke Bell"
