@@ -206,11 +206,6 @@ defaultContentLanguageInSubdir = false
     icon = "envelope"
     icon_pack = "fa"
     link = "mailto:brooke.bell@yale.edu"
-    
-  [[params.social]]
-    icon = "graduation-cap"
-    icon_pack = "fa"
-    link = "https://ysph.yale.edu/profile/brooke_bell/"
 
   [[params.social]]
     icon = "twitter"
