@@ -48,8 +48,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Abstract", url = "https://pubmed.ncbi.nlm.nih.gov/34225165/"}]
-url_custom = [{name = "PDF", url = "https://drive.google.com/file/d/1_KtWSqyoDZTub0ogTta5IAbMFhsV3g61/view?usp=sharing"}]
+url_custom = [{name = "Abstract", url = "https://pubmed.ncbi.nlm.nih.gov/34225165/"}, {name = "PDF", url = "https://drive.google.com/file/d/1_KtWSqyoDZTub0ogTta5IAbMFhsV3g61/view?usp=sharing"}]
 
 
 # Does the content use math formatting?
