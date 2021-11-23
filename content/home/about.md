@@ -37,7 +37,7 @@ I am currently a Postdoctoral Fellow at the Yale School of Public Health. I prev
 
 I am broadly interested in health and food policy, food systems, climate change, and sustainability. My current work examines how food systems and policies can be leveraged and transformed to encourage eating behaviors that both (i) improve chronic disease outcomes and (ii) help mitigate climate change and its subsequent effects on human health. Additionally, I conduct research that investigates the impact of climate change on eating behaviors, food systems, chronic disease risk, and health inequities. 
 
-[View/Download CV](http://bit.ly/bmb_cv_9-21)
+[View/Download CV](tinyurl.com/bmb2021-11)
 
 [Yale Web Profile](https://ysph.yale.edu/profile/brooke_bell/)
 
