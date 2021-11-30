@@ -20,7 +20,7 @@ selected = false
 
 # Links (optional).
 url_pdf = ""
-url_slides = ("https://www.dropbox.com/s/112iu9d6sy42qty/FCTC%20Sunbelt%20Presentation_final.pdf?dl=0")
+url_slides = "https://www.dropbox.com/s/112iu9d6sy42qty/FCTC%20Sunbelt%20Presentation_final.pdf?dl=0"
 url_video = ""
 url_code = ""
 
