@@ -1,6 +1,6 @@
 +++
 title = "Investigating mobility-based fast food outlet visits as indicators of dietary intake and diet-related disease (Preprint)"
-date = "2021-12-17"
+date = "2021-12-16"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Horn AL", "Bell BM", "Garcia Bulle Bueno B", "Bahrami M", "Bozkaya B", "Wilson JP", "Pentland A", "Moro E", "de la Haye K"]
