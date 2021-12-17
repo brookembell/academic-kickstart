@@ -48,7 +48,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Article (free access)", url = "https://preprints.jmir.org/preprint/30211/accepted"}}]
+url_custom = [{name = "Article (free access)", url = "https://preprints.jmir.org/preprint/30211/accepted"}]
 
 
 # Does the content use math formatting?
