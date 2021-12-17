@@ -17,7 +17,7 @@ authors = ["Horn AL", "Bell BM", "Garcia Bulle Bueno B", "Bahrami M", "Bozkaya B
 publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
-publication = "*medRxiv*"
+publication = "In *medRxiv*"
 publication_short = ""
 
 # Abstract and optional shortened version.
