@@ -3,7 +3,7 @@ title = "Validity and feasibility of the Monitoring and Modeling Family Eating D
 date = "2021-12-17"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Bell BM", "Alam R", "Mondol A", "Ma M", "Emi I", "Preum SM", "de la Haye K", "Stankovic JA", "Lach J", "Spruijt-Metz D"]
+authors = ["Bell BM", "Alam R", "Mondol AS", "Ma M", "Emi IA", "Preum SM", "de la Haye K", "Stankovic JA", "Lach J", "Spruijt-Metz D"]
 
 # Publication type.
 # Legend:
