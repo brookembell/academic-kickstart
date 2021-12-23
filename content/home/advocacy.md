@@ -16,3 +16,5 @@ weight = 60
 +++
 
 Under Construction :)
+
+{{< gallery album="gallery_pics" >}}
