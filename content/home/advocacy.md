@@ -21,6 +21,4 @@ weight = 60
   <img alt="1" src="https://imgur.com/zvszMkm.jpg" width="31%">
 &nbsp; &nbsp; 
   <img alt="2" src="https://imgur.com/MP2eTsx.jpg" width="31%">
-&nbsp; &nbsp; 
-  <img alt="3" src="https://i.imgur.com/hdu1xdr.jpg" width="31%">
 </p>
