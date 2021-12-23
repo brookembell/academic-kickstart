@@ -15,12 +15,12 @@ weight = 60
 
 +++
 
-Under Construction :)
+<b>Section Under Construction :)</b>
 
  <p align="center">
-  <img alt="1" src="/content/advocacy/advocacy_pics/img1.png" width="31%">
+  <img alt="1" src="https://imgur.com/zvszMkm.jpg" width="31%">
 &nbsp; &nbsp; 
-  <img alt="2" src="/content/advocacy/advocacy_pics/img2.png" width="31%">
+  <img alt="2" src="https://imgur.com/MP2eTsx.jpg" width="31%">
 &nbsp; &nbsp; 
-  <img alt="3" src="/content/advocacy/advocacy_pics/img3.png" width="31%">
+  <img alt="3" src="https://i.imgur.com/hdu1xdr.jpg" width="31%">
 </p>
