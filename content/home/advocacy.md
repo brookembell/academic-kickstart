@@ -18,9 +18,9 @@ weight = 60
 Under Construction :)
 
  <p align="center">
-  <img alt="Light" src="/content/advocacy/advocacy_pics/img1.jpeg" width="30%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="/content/advocacy/advocacy_pics/img2.jpeg" width="30%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Light" src="/content/advocacy/advocacy_pics/img3.jpeg" width="30%">
+  <img alt="1" src="/content/advocacy/advocacy_pics/img1.png" width="31%">
+&nbsp; &nbsp; 
+  <img alt="2" src="/content/advocacy/advocacy_pics/img2.png" width="31%">
+&nbsp; &nbsp; 
+  <img alt="3" src="/content/advocacy/advocacy_pics/img3.png" width="31%">
 </p>
