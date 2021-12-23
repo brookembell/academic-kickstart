@@ -17,5 +17,10 @@ weight = 60
 
 Under Construction :)
 
-
-![Picture Caption](/content/advocacy/advocacy_pics/img1.jpeg)
+ <p align="center">
+  <img alt="Light" src="/content/advocacy/advocacy_pics/img1.jpeg" width="30%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="/content/advocacy/advocacy_pics/img2.jpeg" width="30%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Light" src="/content/advocacy/advocacy_pics/img3.jpeg" width="30%">
+</p>
