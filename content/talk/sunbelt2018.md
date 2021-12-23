@@ -20,9 +20,11 @@ selected = false
 
 # Links (optional).
 url_pdf = ""
-url_slides = "https://www.dropbox.com/s/w498a6w6icnfobj/Sunbelt%202018%20HH%20slides%20FINAL%20VERSION.pdf?dl=0"
+url_slides = ""
 url_video = ""
 url_code = ""
+url_custom = [{name = "Slides", url = "https://www.dropbox.com/s/w498a6w6icnfobj/Sunbelt%202018%20HH%20slides%20FINAL%20VERSION.pdf?dl=0"}]
+
 
 # Does the content use math formatting?
 math = true
