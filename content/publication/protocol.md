@@ -1,5 +1,5 @@
 +++
-title = "Fiscal policies to promote environmentally sustainable food production and consumption: A scoping review protocol (Preprint)"
+title = "Fiscal policies to promote environmentally sustainable food production and consumption: a scoping review protocol (Preprint)"
 date = "2021-12-23"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
