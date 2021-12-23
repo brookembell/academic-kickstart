@@ -17,4 +17,5 @@ weight = 60
 
 Under Construction :)
 
-{{< gallery album="gallery_pics" >}}
+
+![Picture Caption](/content/advocacy/advocacy_pics/img1.jpeg)
