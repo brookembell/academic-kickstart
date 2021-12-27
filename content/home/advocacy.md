@@ -17,7 +17,4 @@ weight = 60
 
 Section Under Construction =)
 
-{{< gallery album="academic-kickstart/content/advocacy/advocacy_pics/" >}} 
-
-
-![screen reader text](img1.jpg "caption")
+{{< gallery album="advocacy_gallery" >}} 
