@@ -16,3 +16,6 @@ weight = 60
 +++
 
 <b>Section Under Construction :)</b>
+
+{{< gallery album="gallery" >}}
+
