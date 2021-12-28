@@ -17,28 +17,12 @@ weight = 60
 
 <b>Section Under Construction :)</b>
 
-<h1>This is the first gallery</h1>
-<ol>
+* ![Image 1](img1.png)
+* ![Image 2](img3.png)
+* ![Image 3](img2.png)
 
-  <li>
-    The first image<br>
-    <a href="/static/img/img1.png" data-lightbox="gallery1" title="The first image">
-      <img src="/static/img/img1.png">
-    </a>
-  </li>
+<script src="md-gallery.js"></script>
 
-  <li>
-    The second image<br>
-    <a href="/static/img/img2.png" data-lightbox="gallery1" title="The second image">
-      <img src="/static/img/img2.png">
-    </a>
-  </li>
-
-  <li>
-    The third image<br>
-    <a href="/static/img/img3.png" data-lightbox="gallery1" title="The third image">
-      <img src="/static/img/img3.png">
-    </a>
-  </li>
-
-</ol>
+<script>
+    md_gallery();
+</script>
