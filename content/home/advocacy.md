@@ -17,60 +17,28 @@ weight = 60
 
 <b>Section Under Construction :)</b>
 
-<html>
-<head>
-<style>
-div.gallery {
-  margin: 5px;
-  border: 1px solid #ccc;
-  float: left;
-  width: 180px;
-}
+<h1>This is the first gallery</h1>
+<ol>
 
-div.gallery:hover {
-  border: 1px solid #777;
-}
+  <li>
+    The first image<br>
+    <a href="img1.png" data-lightbox="gallery1" title="The first image">
+      <img src="img1.png">
+    </a>
+  </li>
 
-div.gallery img {
-  width: 100%;
-  height: auto;
-}
+  <li>
+    The second image<br>
+    <a href="img2.png" data-lightbox="gallery1" title="The second image">
+      <img src="img2.png">
+    </a>
+  </li>
 
-div.desc {
-  padding: 15px;
-  text-align: center;
-}
-</style>
-</head>
-<body>
+  <li>
+    The third image<br>
+    <a href="img3.png" data-lightbox="gallery1" title="The third image">
+      <img src="img3.png">
+    </a>
+  </li>
 
-<div class="gallery">
-  <a target="_blank" href="img1.png">
-    <img src="img1.png" alt="Cinque Terre" width="600" height="400">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="img2.png">
-    <img src="img2.png" alt="Forest" width="600" height="400">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="img3.png">
-    <img src="img3.png" alt="Northern Lights" width="600" height="400">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="img4.png">
-    <img src="img4.png" alt="Mountains" width="600" height="400">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
-
-</body>
-</html>
+</ol>
