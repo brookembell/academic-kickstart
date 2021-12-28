@@ -17,10 +17,6 @@ weight = 60
 
 <b>Section Under Construction :)</b>
 
-* ![Image 1](img1.png)
-* ![Image 2](img3.png)
-* ![Image 3](img2.png)
-
 <script src="md-gallery.js"></script>
 
 <script>
