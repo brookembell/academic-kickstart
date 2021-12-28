@@ -17,4 +17,8 @@ weight = 60
 
 <b>Section Under Construction :)</b>
 
-<img src="/static/img/img2.png" width="20%" align="center"> <img src="/static/img/img1.png" width="20%" align="center"> <img src="/static/img/img3.png" width="20%" align="center">
+<p align="center">
+  <img alt="IMG" src="https://i.imgur.com/SkLqnec.jpg" width="25%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="IMG" src="https://i.imgur.com/MP2eTsx.jpg" width="25%">
+</p>
