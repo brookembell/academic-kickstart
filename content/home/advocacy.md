@@ -17,4 +17,4 @@ weight = 60
 
 <b>Section Under Construction :)</b>
 
-{ {< foldergallery src="gallery" >} }
+<img src="https://github.com/brookembell/academic-kickstart/blob/d419298a4108bb55abda74df0b452e0219ebd8a3/static/img/img2.png" width="20%" align="center"> <img src="https://github.com/brookembell/academic-kickstart/blob/d419298a4108bb55abda74df0b452e0219ebd8a3/static/img/img1.png" width="20%" align="center"> <img src="https://github.com/brookembell/academic-kickstart/blob/d419298a4108bb55abda74df0b452e0219ebd8a3/static/img/img3.png" width="20%" align="center">
