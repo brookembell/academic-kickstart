@@ -18,16 +18,9 @@ weight = 60
 <b>Section Under Construction :)</b>
 
 <p align="center">
-  <img alt="IMG" src="https://i.imgur.com/SkLqnec.jpg" width=300>
+  <img src="https://i.imgur.com/SkLqnec.jpg" width=200>
 &nbsp;
-  <img alt="IMG" src="https://i.imgur.com/MP2eTsx.jpg" width=300>
+  <img src="https://i.imgur.com/MP2eTsx.jpg" width=200>
 &nbsp;
-  <img alt="IMG" src="https://i.imgur.com/zvszMkm.jpg" width=300>
-</p>
-
-
-<p float="none">
-  <img src="https://i.imgur.com/SkLqnec.jpg" width="100" />
-  <img src="https://i.imgur.com/MP2eTsx.jpg" width="100" /> 
-  <img src="https://i.imgur.com/zvszMkm.jpg" width="100" />
+  <img src="https://i.imgur.com/zvszMkm.jpg" width=200>
 </p>
