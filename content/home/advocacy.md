@@ -22,22 +22,22 @@ weight = 60
 
   <li>
     The first image<br>
-    <a href="img1.png" data-lightbox="gallery1" title="The first image">
-      <img src="img1.png">
+    <a href="/static/img/img1.png" data-lightbox="gallery1" title="The first image">
+      <img src="/static/img/img1.png">
     </a>
   </li>
 
   <li>
     The second image<br>
-    <a href="img2.png" data-lightbox="gallery1" title="The second image">
-      <img src="img2.png">
+    <a href="/static/img/img2.png" data-lightbox="gallery1" title="The second image">
+      <img src="/static/img/img2.png">
     </a>
   </li>
 
   <li>
     The third image<br>
-    <a href="img3.png" data-lightbox="gallery1" title="The third image">
-      <img src="img3.png">
+    <a href="/static/img/img3.png" data-lightbox="gallery1" title="The third image">
+      <img src="/static/img/img3.png">
     </a>
   </li>
 
