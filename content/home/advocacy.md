@@ -17,8 +17,16 @@ weight = 60
 
 <b>Section Under Construction :)</b>
 
-<script src="md-gallery.js"></script>
-
-<script>
-    md_gallery();
-</script>
+<div class="gallery gallery-cols-3">
+    <figure>
+        <img src="/static/img/img1.png" alt="Image 1">
+        <figcaption>Image 1</figcaption>
+    </figure>
+    <figure>
+        <a href="/static/img/img2.png"><img src="/static/img/img2.png" alt="Image 2">
+        <figcaption>Image 2</figcaption></a>
+    </figure>
+    <figure>
+        <img src="/static/img/img3.png" alt="">
+    </figure>
+</div>
