@@ -25,3 +25,9 @@ weight = 60
   <img alt="IMG" src="https://i.imgur.com/zvszMkm.jpg" width=300>
 </p>
 
+
+<p float="left">
+  <img src="https://i.imgur.com/SkLqnec.jpg" width="100" />
+  <img src="https://i.imgur.com/MP2eTsx.jpg" width="100" /> 
+  <img src="https://i.imgur.com/zvszMkm.jpg" width="100" />
+</p>
