@@ -26,7 +26,7 @@ weight = 60
 </p>
 
 
-<p float="left">
+<p float="none">
   <img src="https://i.imgur.com/SkLqnec.jpg" width="100" />
   <img src="https://i.imgur.com/MP2eTsx.jpg" width="100" /> 
   <img src="https://i.imgur.com/zvszMkm.jpg" width="100" />
